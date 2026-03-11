@@ -97,7 +97,7 @@ const Home = () => {
   "
         >
           <span className="whitespace-nowrap">
-            hi, I'm <span className="text-blue-500">Abbas Khan</span>
+            Hi, I'm <span className="text-blue-500">Abbas Khan</span>
           </span>
 
           {/* Rotating Text Section */}
