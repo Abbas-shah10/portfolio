@@ -18,7 +18,7 @@ const Footer = () => {
             className="text-sm font-semibold"
             style={{ color: "var(--text-color)" }}
           >
-            Muhammad Abbas Khan
+            Abbas Khan
           </h4>
           <p className="text-xs" style={{ color: "var(--link-text)" }}>
             Software Developer
