@@ -50,6 +50,39 @@ The project demonstrates core React concepts such as functional components, hook
           ]}
           color="#7C4DFF"
         />
+        {/* Storage Management */}
+        <Project
+          title="A Storage Management App – Efficient Data Organization Solution"
+          description="A comprehensive Storage Management application built with React that provides users with a seamless way to organize, categorize, and access their digital files. The application features a clean and intuitive interface, allowing users to create folders, upload files, and search through their storage efficiently.
+
+The project demonstrates core React concepts such as functional components, hooks (useState, useEffect), API integration, and conditional rendering. It is fully responsive and optimized for a smooth user experience across devices."
+          github="https://github.com/Abbas-shah10/storage-management"
+          live="https://storage-management-taupe.vercel.app/sign-up"
+          status="Live"
+          papers={[
+            <img
+              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+              className="w-10 h-10"
+            />,
+            <img
+              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+              className="w-10 h-10"
+            />,
+            <img
+              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+              className="w-10 h-10"
+            />,
+            <img
+              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+              className="w-10 h-10"
+            />,
+            <img
+              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg"
+              className="w-10 h-10"
+            />,
+          ]}
+          color="#7C4DFF"
+        />
       </div>
     </div>
   );
